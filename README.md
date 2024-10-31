@@ -37,11 +37,14 @@ npm run build
  • Component name (e.g., button)
  • Component type (atom, molecule, or organism)
  3. Based on your input, plop.js will generate a folder structure like:
+
+ ```
 src/components/atoms/a-button/
 ├── a-button.njk
 ├── index.scss
 ├── index.js
 └── README.md
+```
 
 Configuration Details
 
