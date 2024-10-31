@@ -2,9 +2,9 @@ This repository demonstrates how to use plop.js to automate the creation of a co
 
 Features
 
- • Folder Structure by Component Type: Components are organized as atoms, molecules, or organisms, following atomic design principles.
+ • Folder Structure by Component Type: Components are organised as atoms, molecules, or organisms, following atomic design principles.
  • Automatic Namespacing: Each component is prefixed based on its type (e.g., a- for atoms, m- for molecules), ensuring consistent naming.
- • Customizable Templates: Each file is generated from a Handlebars template, including HTML and SCSS files that follow standard conventions.
+ • Customisable Templates: Each file is generated from a Handlebars template, including HTML and SCSS files that follow standard conventions.
  • Creation Date Helper: Automatically adds a creation date to files as metadata.
 
 Installation
@@ -53,9 +53,9 @@ Configuration Details
  • typeAbbreviation: Abbreviates component types (atom → a, molecule → m, organism → o).
  • creationDate: Inserts the current date into file templates for easy tracking.
 
-Customization
+Customisation
 
-You can further customize this setup by:
+You can further customise this setup by:
 
  • Adding more component types.
  • Including additional templates, like tests or documentation.
